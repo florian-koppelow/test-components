@@ -1,7 +1,7 @@
 import React from 'react';
 
-// Image asset from Figma
-const imgWorkoutCard = "http://localhost:3845/assets/12becbb670304f28057346f740367341df6b53ee.png";
+// Image asset - local placeholder
+const imgWorkoutCard = "/assets/workout-card.png";
 
 interface CardProps {
   /** The main title/heading of the card */

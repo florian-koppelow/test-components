@@ -47,3 +47,4 @@ Visit http://localhost:3000 to see the components in action.
 - Vite
 - Tailwind CSS
 - Inter Font
+- ImageMagick (for placeholder images)
